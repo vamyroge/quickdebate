@@ -1,0 +1,4 @@
+qwen/qwen3-max:free
+qwen/qwen3.5-omni-flash:free
+qwen/qwen3-vl-plus:free
+qwen/qwen3-omni-flash:free
